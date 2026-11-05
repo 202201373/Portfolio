@@ -1,5 +1,5 @@
 # Portfolio
-# Reem Ehab Helmy
+# Hi, I'm Reem Ehab Helmy
 
 **Senior Data Scientist | AI Engineer**
 
